@@ -11,6 +11,8 @@ const GitHubIcon: React.FC<GitHubIconProps> = ({ className, ...props }) => (
     xmlns="http://www.w3.org/2000/svg"
     aria-label="GitHub"
     className={className}  
+    fill="currentColor"
+    stroke="currentColor"
     {...props} 
   >
     <title>GitHub</title>

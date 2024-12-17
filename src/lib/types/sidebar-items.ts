@@ -9,12 +9,12 @@ export const SideBarItems = [
     },
     {
       title: "Calendar",
-      url: "/dashboard/calendar",
+      url: "/calendar",
       icon: Calendar,
     },
     {
-      title: "Appointments",
-      url: "/dashboard/appointments",
+      title: "Collections",
+      url: "/colections",
       icon: List,
     },
   ];
