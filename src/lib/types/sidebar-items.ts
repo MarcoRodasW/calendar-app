@@ -14,7 +14,7 @@ export const SideBarItems = [
     },
     {
       title: "Collections",
-      url: "/colections",
+      url: "/collections",
       icon: List,
     },
   ];
